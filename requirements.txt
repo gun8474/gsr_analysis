@@ -1,0 +1,10 @@
+opencv-python==4.2.0.32
+numpy==1.18.1
+scipy==1.4.1
+numba==0.48.0
+pip install onnxruntime
+pip install opencv-python
+pip install py-feat
+conda install -c anaconda h5py
+pip install tensorflow==1.15.0
+pip install keras==2.2.4
